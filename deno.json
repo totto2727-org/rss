@@ -1,0 +1,15 @@
+{
+  "name": "@totto/rss",
+  "version": "0.1.0",
+  "lock": false,
+  "exports": {
+    ".": "./mod.ts"
+  },
+  "tasks": {},
+  "fmt": {
+    "semiColons": false,
+    "exclude": [
+      "CHANGELOG.md"
+    ]
+  }
+}
